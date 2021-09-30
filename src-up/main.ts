@@ -12,3 +12,4 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
 
 // This is for the 4th commit OUOUOU
+// This is for the 6th commit OUOUOU
